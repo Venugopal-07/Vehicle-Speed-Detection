@@ -59,6 +59,7 @@ Vehicle-Speed-Detection/
 ├── speed_calculation.py
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
@@ -78,8 +79,8 @@ Vehicle-Speed-Detection/
 ### How to Run
 
 1. Install Required Libraries
-```
 
+```
 pip install -r requirements.txt
 
 ```
@@ -90,17 +91,17 @@ python main.py
 ```
 ### Application Controls
 
-When the camera window opens, the following controls are available:
+* When the camera window opens, the following controls are available:
 
-* F key → Toggle Fullscreen ON / OFF
+*   F key → Toggle Fullscreen ON / OFF
 
-* ESC key → Close camera and save the recorded video
+*   ESC key → Close camera and save the recorded video
 
-These instructions are also displayed directly on the video screen for user convenience.
+* These instructions are also displayed directly on the video screen for user convenience.
 
 ### Output
 
-> Live video feed from webcam
+>Live video feed from webcam
 
 > Bounding box around detected object
 
@@ -112,7 +113,6 @@ recorded_output.mp4
 
 ```
 ### Note
-
 * Speed values are approximate
 
 * Webcam is used for demonstration only
@@ -126,6 +126,5 @@ recorded_output.mp4
 *   Known distance references
 
 ### Author
-
 #### Venugopal Vallapaneni
 #### MCA – Mini Project
