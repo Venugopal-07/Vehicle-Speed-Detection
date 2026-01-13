@@ -119,11 +119,11 @@ recorded_output.mp4
 
 * Real-world accuracy requires:
 
-*   Fixed traffic cameras
+-   Fixed traffic cameras
 
-*   Camera calibration
+-   Camera calibration
 
-*   Known distance references
+-   Known distance references
 
 ### Author
 #### Venugopal Vallapaneni
